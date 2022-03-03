@@ -1,0 +1,15 @@
+{
+  "name": "express_send_email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmad Nizar <ahmad.rpl001@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.2"
+  }
+}
