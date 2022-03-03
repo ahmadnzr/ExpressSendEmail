@@ -10,7 +10,7 @@
   ```
 - go !
   ```sh
-  yarn install && yarn start
+  yarn && yarn start
   ```
 - endpoint
   - `/email`
